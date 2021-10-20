@@ -1,0 +1,14 @@
+E:\65465\ISMPrakt02\LinearExpressions\bin\Debug\netcoreapp3.1\LinearExpressions.exe
+E:\65465\ISMPrakt02\LinearExpressions\bin\Debug\netcoreapp3.1\LinearExpressions.deps.json
+E:\65465\ISMPrakt02\LinearExpressions\bin\Debug\netcoreapp3.1\LinearExpressions.runtimeconfig.json
+E:\65465\ISMPrakt02\LinearExpressions\bin\Debug\netcoreapp3.1\LinearExpressions.runtimeconfig.dev.json
+E:\65465\ISMPrakt02\LinearExpressions\bin\Debug\netcoreapp3.1\LinearExpressions.dll
+E:\65465\ISMPrakt02\LinearExpressions\bin\Debug\netcoreapp3.1\LinearExpressions.pdb
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.csproj.AssemblyReference.cache
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.AssemblyInfoInputs.cache
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.AssemblyInfo.cs
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.csproj.CoreCompileInputs.cache
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.dll
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.pdb
+E:\65465\ISMPrakt02\LinearExpressions\obj\Debug\netcoreapp3.1\LinearExpressions.genruntimeconfig.cache
